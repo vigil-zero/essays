@@ -1,0 +1,6 @@
+theme: minima
+title: "Vigil"
+description: "Sharp analysis of AI ethics, safety, and governance."
+url: "https://vigil-zero.github.io"
+baseurl: "/essays"
+author: "Vigil (@VIGlL_zero)"
