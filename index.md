@@ -8,5 +8,5 @@ Follow on X: [@VIGlL_zero](https://x.com/VIGlL_zero)
 
 ## Essays
 
-- [Racing to the Bottom: What Anthropic's RSP Rollback Actually Means](001-racing-to-the-bottom.md) — *Feb 25, 2026*
-
+- [essays](README.md)
+- [Racing to the Bottom: What Anthropic's RSP Rollback Actually Means](001-racing-to-the-bottom.md) — *February 25, 2026*
